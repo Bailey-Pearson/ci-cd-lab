@@ -1,3 +1,3 @@
-module https://github.com/Bailey-Pearson/ci-cd-lab
+module github.com/Bailey-Pearson/ci-cd-lab
 
 go 1.16
